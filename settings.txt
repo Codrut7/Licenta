@@ -1,0 +1,5 @@
+path=C:\\Users\\Cordu\\traffic signs\\
+resultPath=C:\\Users\\Cordu\\Desktop\\GAN RESULTS\\
+size=64
+epochs=50000
+batch_size=64
